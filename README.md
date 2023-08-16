@@ -3,4 +3,4 @@
 
  Criado através da aula do curso em video
 
- Essa linha eu adcionei diretamente no Site! QUE IMPRESSIONANTE!
+ Essa linha eu adicionei diretamente no Site! QUE IMPRESSIONANTE!
